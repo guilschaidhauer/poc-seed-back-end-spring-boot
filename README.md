@@ -9,7 +9,7 @@ For the frontend project please see [poc-seed-front-end](https://github.com/guil
 - [Maven](https://maven.apache.org/download.cgi) 3.2 or later
 
 ## Project setup
-1. Clone this repository locally and navigate into it
+1. Clone this repository locally
     ```sh
     git clone https://github.com/guilschaidhauer/poc-seed-back-end-spring-boot.git
     ```
