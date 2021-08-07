@@ -1,4 +1,4 @@
-package com.gsc.pocseedspringboot.model;
+package com.gsc.pocseedspringboot.models;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
